@@ -2,8 +2,13 @@
 
 ... with google analytics event tracking (for instructional purposes)
 
+## Setup
+
+The dashboard will ask you to input your [AlphaVantage API Key](https://www.alphavantage.co/support/#api-key), so you'll need to obtain one (or use one of the prof's premium keys as provided) before using the dashboard.
 
 ## Website Analytics
+
+Here are some results from Google Analytics:
 
 <img width="440" alt="Screenshot 2023-04-03 at 8 32 57 PM" src="https://user-images.githubusercontent.com/1328807/229656266-c4cb0999-3974-4639-b75d-3a684511414a.png">
 
